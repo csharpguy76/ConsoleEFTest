@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleEFTest/SimpleContext.cs">
+    <Files>
+      <File FileName="ConsoleEFTest/App.config" Line="7" Column="166" />
+      <File FileName="ConsoleEFTest/SimpleContext.cs" Line="8" Column="30" />
+      <File FileName="ConsoleEFTest/Person.cs" Line="4" Column="2" />
+      <File FileName="ConsoleEFTest/Program.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="ConsoleEFTest/Program.cs" line="22" offsetX="440" offsetY="378" expression="ex.Message" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
